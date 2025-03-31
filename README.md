@@ -1,2 +1,2 @@
-# xTheGabox
+# GabooDesign
 Config files for my GitHub profile.
