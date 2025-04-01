@@ -1,4 +1,4 @@
-# GabooDiseña!
+# GaboDiseña!
 Hola Hola!👋  
 Me presento:  
 - Soy Gabo _(He/She/It)_ y soy estudiante de tercer año de la carrera de Diseño con mención en visualidad y medios en la Unviersidad de Chile. 📖  
