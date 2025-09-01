@@ -1,7 +1,10 @@
 # GaboDiseña!
-Hola Hola!👋  
+¡Hola Hola!👋  
 Me presento:  
-- Soy Gabo _(He/She/It)_ y soy estudiante de tercer año de la carrera de Diseño con mención en visualidad y medios en la Universidad de Chile. 📖  
-- Me considero diseñador y programador, me interesa el área de los videojuegos, el modelado 3D y el uso de apps de código abierto. 🕹️  
+- Soy Gaboo! _(He/She/It)_  Y soy estudiante universitario y especialista en gráfica. 🖨️
+- Estoy en mi tercer año de la carrera de Diseño con mención en visualidad y medios en la Universidad de Chile. 📖  
+- Me considero diseñador 2D/3D y programador, me interesa el área de los videojuegos, el modelado 3D. 🕹️  
 
-Por estas razones es que tengo algunos proyectos basados en estos principios y tambien en una afición curiosa que tengo desde niño, el Metro de Santiago. 🚇
+Por estas razones es que tengo algunos proyectos basados en estos principios y tambien en una afición curiosa que tengo desde niño, el Metro de Santiago. 🚇  
+
+¿El motivo de mi gusto? Me fascina la movilidad y el urbanismo. <3
