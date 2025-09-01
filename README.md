@@ -1,4 +1,4 @@
-# GaboDiseña!
+# GabooDiseña!
 ¡Hola Hola!👋  
 Me presento:  
 - Soy Gaboo! _(He/She/It)_  Y soy estudiante universitario y especialista en gráfica. 🖨️
