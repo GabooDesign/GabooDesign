@@ -1,7 +1,7 @@
 # GabooDiseña!
 ¡Hola Hola!👋  
 Me presento:  
-- Soy Gaboo! _(He/She/It)_  Y soy estudiante universitario y especialista en gráfica. 🖨️
+- Soy Gaboo! _(He/She)_  Y soy estudiante universitario y especialista en gráfica. 🖨️
 - Estoy en mi tercer año de la carrera de Diseño con mención en visualidad y medios en la Universidad de Chile. 📖  
 - Me considero diseñador 2D/3D y programador, me interesa el área de los videojuegos, el modelado 3D. 🕹️  
 
